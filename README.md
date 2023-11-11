@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on HTML, CSS & JavaScript<br>🧑‍🎓 I'm currently learning Full Stack Development<br>👀 I'm interested in Web and App Development
+🔭 I'm currently learning React<br>👀 I'm interested in Web and App Development
 
 
 ## 🌐 Socials:
