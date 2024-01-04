@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Mani</h1>
 <h3 align="center">Passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ExpressJS**
 
 - 💬 Ask me about **React, JavaScript**
 
