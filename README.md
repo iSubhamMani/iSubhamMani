@@ -14,7 +14,7 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.gif?cid=6c09b9529gbeh1cekn3mm1y48pc15f7lbwbp8f32lejsc6rh&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
-###
+### My skillset
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
-###
+### Connect with me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/subham-mani-048731288/" target="_blank">
@@ -55,6 +55,9 @@
   <a href="https://twitter.com/manisubham09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://hashnode.com/@subham-mani" target="_blank">
+    <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+  </a>  
   <a href="https://www.instagram.com/subhamxmani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
