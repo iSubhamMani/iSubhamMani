@@ -1,6 +1,14 @@
 <br clear="both">
 
 <h2 align="center">Hi 👋! I'm Subham and I turn chai ☕ into code 👨‍💻</h2>
+  
+- 🌱 I’m currently learning NodeJS & MongoDB
+  
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+- ⚡ Fun fact: I don't drink coffee
+ 
+<br/>
 
 ###
 
