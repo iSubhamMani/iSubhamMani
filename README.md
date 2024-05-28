@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning NodeJS & MongoDB
   
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Web dev and related technologies  
   
 - ⚡ Fun fact: I don't drink coffee
  
