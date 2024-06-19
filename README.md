@@ -1,8 +1,10 @@
 <br clear="both">
 
 <h2 align="center">Hi 👋! I'm Subham and I turn chai ☕ into code 👨‍💻</h2>
+
+- 🔨 I'm currently building [Sync](https://github.com/iSubhamMani/sync)
   
-- 🌱 I’m currently learning NodeJS & MongoDB
+- 🌱 I’m currently learning TypeScript
   
 - ❓ Ask me about anything related to Web dev and related technologies  
   
