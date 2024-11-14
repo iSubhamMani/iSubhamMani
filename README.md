@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋! I'm Subham and I turn chai ☕ into code 👨‍💻</h2>
 
-- 🔨 I’m currently building [LearnIt](https://github.com/iSubhamMani/learnit)
+- 🔨 I’m currently building [Vibe Check](https://github.com/iSubhamMani/vibe-check)
   
 - 🌱 I’m currently learning Postgres, Prisma, NextJS
   
