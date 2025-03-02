@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! I'm Subham and I turn chai ☕ into code 👨‍💻</h2>
+<h2 align="center">Hi 👋! I'm Subham</h2>
   
 - 🌱 I’m currently learning Web Sockets
   
