@@ -4,9 +4,7 @@
   
 - 🌱 I’m currently learning Web Sockets
   
-- ❓ Ask me about anything related to Web dev and related technologies  
-  
-- ⚡ Fun fact: I don't drink coffee
+- ❓ Ask me about anything related to Web dev and related technologies
  
 <br/>
 
