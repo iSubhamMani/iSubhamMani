@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋! I'm Subham</h2>
   
-- 🌱 I’m currently learning Web Sockets
+- 🌱 I’m currently learning about React Native, Redis, AWS
   
 - ❓ Ask me about anything related to Web dev and related technologies
  
