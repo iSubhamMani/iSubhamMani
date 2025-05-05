@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
